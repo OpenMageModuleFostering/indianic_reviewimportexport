@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Indianic_Reviewimportexport",
+    "type": "magento-module",
+    "license": "OSL",
+    "homepage": "",
+    "description": "Product review import export",
+    "authors": [
+    {
+        "name": "muffadal",
+        "email": "mufaddal_kp@yahoo.in"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
