@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Indianic_Reviewimportexport",
+    "name": "openmage-module-fostering\/indianic_reviewimportexport",
     "type": "magento-module",
-    "license": "OSL",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Product review import export",
     "authors": [
